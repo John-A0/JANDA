@@ -25,7 +25,7 @@ To install JANDA, follow these steps:
 # Contributing
 Contributions are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request.
 
-Acknowledgments
+# Acknowledgments
 - JANDA is inspired by the need for a comprehensive static analysis tool for malware researchers.
 - Special thanks to the open-source community for providing valuable libraries and tools.
 - Made By: John Ayman and Amr Mousa.
