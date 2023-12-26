@@ -17,7 +17,7 @@ JANDA allows users to check the given file on the VirusTotal website, leveraging
 
 # Installation
 To install JANDA, follow these steps:
-1. Clone the repository: git clone https://github.com/your-username/janda.git
+1. Clone the repository: git clone https://github.com/John-A0/JANDA.git
 2. Navigate to the project directory: cd janda
 3. Install dependencies: pip install -r requirements.txt
 4. Run the tool: python janda.py
