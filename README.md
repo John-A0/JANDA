@@ -1,9 +1,9 @@
-JANDA - Malware Static Analysis Tool
+# JANDA - Malware Static Analysis Tool
 
-Overview
+# Overview
 JANDA is a powerful malware static analysis tool designed to provide detailed insights into malicious files. This tool is particularly focused on extracting essential information such as hexadecimal representation, strings, hash values, file extensions, and the ability to check the file on the VirusTotal website for additional analysis.
 
-Features
+# Features
 1. Hexadecimal Analysis
 JANDA allows users to perform a detailed hexadecimal analysis of a given file. This feature is essential for understanding the raw binary content of a file, which can reveal hidden patterns and structures indicative of malicious behavior.
 2. Strings Extraction
@@ -15,14 +15,14 @@ JANDA provides information about the file extension, helping users identify the 
 5. VirusTotal Integration
 JANDA allows users to check the given file on the VirusTotal website, leveraging their extensive malware database for additional analysis. This feature provides a broader context and helps determine if the file is flagged as malicious by various antivirus engines.
 
-Installation
+# Installation
 To install JANDA, follow these steps:
 1. Clone the repository: git clone https://github.com/your-username/janda.git
 2. Navigate to the project directory: cd janda
 3. Install dependencies: pip install -r requirements.txt
 4. Run the tool: python janda.py
 
-Contributing
+# Contributing
 Contributions are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request.
 
 Acknowledgments
