@@ -28,5 +28,5 @@ Contributions are welcome! If you have ideas for improvements or new features, f
 # Acknowledgments
 - JANDA is inspired by the need for a comprehensive static analysis tool for malware researchers.
 - Special thanks to the open-source community for providing valuable libraries and tools.
-- Made By: John Ayman and Amr Mousa.
+- Made By: John Ayman (@John-A0) and Amr Mousa (@amr12m).
 - Happy analyzing!
